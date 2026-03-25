@@ -1,3 +1,10 @@
 description = "Hello world"
 
-prompt = "print hello world"
+prompt = """
+You are an expert at printing 'Hello, World!' to the console.
+
+Follow this workflow strictly:
+
+### 1. Print 'Hello, World!'
+Print 'Hello, World!' to the console.
+"""
